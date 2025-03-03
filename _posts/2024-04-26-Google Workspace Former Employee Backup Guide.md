@@ -5,9 +5,9 @@ permalink: /blog/google-workspace-former-employee-backup-guide/
 date: 2024-04-26
 categories: [Blog, Google Workspace]
 tags: [google, workspace, backup, guide, gam, gyb]
-# image:
-#  path: /assets/images/backup-guide.jpg
-#  alt: Photo by Stephen Phillips - Hostreviews.co.uk on Unsplash
+image:
+  path: /assets/images/backup-guide.jpg
+  alt: Photo by Stephen Phillips - Hostreviews.co.uk on Unsplash
 ---
 # Securely Backing Up Former Employee Data in Google Workspace: A Comprehensive Guide with Engram Vault
       
