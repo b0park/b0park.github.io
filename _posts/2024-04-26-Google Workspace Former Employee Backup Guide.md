@@ -26,7 +26,7 @@ If the user has contacts that you need to save, you can export them using the Go
 The main part of the backup process involves using GAM to export the user's email. You'll need to install GAM on your computer if you haven't done so already. Once you've installed GAM, open a command prompt or terminal window and navigate to the GAM directory.
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-> Download and install GAM on your computer. You can find the latest version of GAM on the GitHub repository (https://github.com/jay0lee/GAM)
+> Download and install GAM on your computer. You can find the latest version of GAM on the GitHub repository https://github.com/jay0lee/GAM
 {: .prompt-tip }
 <!-- markdownlint-restore -->
 
