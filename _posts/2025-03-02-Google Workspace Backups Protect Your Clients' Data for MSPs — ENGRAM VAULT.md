@@ -5,9 +5,9 @@ permalink: /services/google-workspace-backup-for-MSPs/
 date: 2025-03-02
 categories: [Services, Google Workspace Backup for MSPs]
 tags: [google, workspace, backup, msp]
-# image:
-#  path:
-#  alt:
+image:
+  path: /assets/images/backup-snapshot.png
+  alt: Snapshot of completed Google Workspace Backups
 ---
 # Simple predictable pricing for Google Workspace Backups. — Access + Reserved Shared Storage Pool.
 
