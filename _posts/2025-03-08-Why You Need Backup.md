@@ -5,6 +5,7 @@ permalink:
 date: 2025-03-08
 categories: [Blog]
 tags: [google, workspace, backup, microsoft 365, google workspace]
+description: Discover why backing up Microsoft 365 and Google Workspace is essential for business continuity. Learn how cloud backups protect against accidental deletion, cyber threats, and compliance risks.
 image:
   path: /assets/images/Restore-To-A-Point-In-Time.png
   alt: Restoring Onedrive Data to What It Looked Like In The Past.
