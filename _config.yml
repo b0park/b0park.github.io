@@ -38,11 +38,12 @@ social:
   email: danny@engramvault.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # https://twitter.com/dannieweapons # change to your Twitter homepage
-    - https://github.com/b0park # change to your GitHub homepage
+    # https://twitter.com/username # change to your Twitter homepage
+    # - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://signal.me/#eu/C2svsMOaCUl24FQGadgLexj_j3veS9cDbtgG-AFP0HlN3PWZLqVBGY3j5z3n4TKt
 
 # Site Verification Settings
 webmaster_verifications:
