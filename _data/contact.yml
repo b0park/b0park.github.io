@@ -10,9 +10,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: signal
+  icon: "fa-brands fa-signal-messenger"
+  url: 'https://signal.me/#eu/C2svsMOaCUl24FQGadgLexj_j3veS9cDbtgG-AFP0HlN3PWZLqVBGY3j5z3n4TKt'
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -31,9 +36,9 @@
 #   icon: 'fa-brands fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
 #
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
+- type: reddit
+  icon: 'fa-brands fa-reddit'
+  url: 'https://www.reddit.com/user/EngramVault/' # Fill with your Reddit profile link
 #
 # - type: threads
 #   icon: 'fa-brands fa-threads'
